@@ -1,2 +1,2 @@
-# cmerazcom-func
+# cmeraz-func
 an azure function app
